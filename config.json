@@ -1,0 +1,16 @@
+{
+    "CONFIG_DATA":{    
+
+        "train_file_name":["intentio1.txt","intentio2.txt","intentio3.txt","intentio4.txt","intentio5.txt","intentio6.txt"],
+        "test_file_name":["intentio6.txt"],
+        "n_features": 3,
+        "check_model": "model_CNN_1D_univariate",
+        "distance_mode": true
+        
+    }
+
+
+
+
+
+}

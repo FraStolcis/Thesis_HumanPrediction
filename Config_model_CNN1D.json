@@ -1,0 +1,11 @@
+{
+    "CONFIG_DATA":{    
+        "batch_size":3,
+        "interest_feature": ["x","z"],
+        "n_steps_out": 800,
+        "n_steps_in": 60,
+        "epochs": 400
+    }
+
+}
+
